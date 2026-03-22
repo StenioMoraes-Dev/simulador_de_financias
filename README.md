@@ -1,2 +1,14 @@
-# simulador_de_financias
-Esse é um mini projeto de simulador de financias, que vou usar HTML, CSS e JavaScript.
+# Simulador de Financiamento
+
+Este projeto é uma Simulador de Financias feita em HTML, CSS e JavaScript.
+
+## Funcionalidades
+- Cálculo de Valores
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Aprendizado
+- Organização de layouts
