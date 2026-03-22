@@ -1,0 +1,24 @@
+body div header h1{
+   font-family: Times New Roman, sans-serif;
+}
+label, input[type=number],button{
+   display: block;
+}
+div{
+   width: 960px;
+   margin: auto;
+   background: #e3e3e3;
+   padding: 10px 20px;
+   overflow: hidden;
+}
+label{
+  margin-top: 5px;
+}
+#button1{
+   background: #ee8e88;
+   color: #000000;
+   font-family: Arial, sans-serif;
+   font-size: 15px;
+   padding: 5px 10px;
+   margin-top: 10px;
+}
